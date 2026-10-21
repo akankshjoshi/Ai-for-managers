@@ -1,0 +1,31 @@
+product,current_stock,forecast_demand,supplier_lead_time,safety_stock,reorder_point,days_until_stockout,trigger,suggested_order_qty,revenue_at_risk
+Biscuits,11,19.6,1,6,25.6,0.6,REORDER NOW,54,394.3
+Milk,77,104.2,1,28,132.2,0.7,REORDER NOW,264,6714.6
+Eggs,107,109.2,1,24,133.2,1.0,REORDER NOW,245,161.8
+Pasta,24,21.1,1,6,27.1,1.1,REORDER NOW,46,0.0
+Instant Noodles,19,16.4,1,6,22.4,1.2,REORDER NOW,37,0.0
+Wheat Flour,151,106.1,2,33,245.1,1.4,REORDER NOW,307,8976.6
+Onions,115,70.2,3,28,238.7,1.6,REORDER NOW,265,4759.6
+Sugar,68,36.9,2,12,85.9,1.8,REORDER NOW,92,852.5
+Baby Wipes,216,123.2,2,50,296.4,1.8,REORDER NOW,327,707.8
+Butter,44,19.2,2,9,47.3,2.3,REORDER NOW,42,0.0
+Shampoo,104,43.2,3,18,147.6,2.4,REORDER NOW,131,4407.9
+Coffee,130,46.4,3,21,160.1,2.8,REORDER NOW,123,1389.5
+Chocolate,142,48.5,3,21,166.6,2.9,REORDER NOW,122,670.9
+Cheese,247,78.4,3,28,263.3,3.1,REORDER NOW,174,0.0
+Tea,141,42.3,3,20,146.8,3.3,REORDER NOW,91,0.0
+Tomatoes,133,102.9,1,27,129.9,1.3,OK,0,0.0
+Ice Cream,224,137.9,1,32,169.9,1.6,OK,0,0.0
+Bananas,268,143.5,1,35,178.5,1.9,OK,0,0.0
+Soap,79,39.8,1,10,49.8,2.0,OK,0,0.0
+Rice,128,52.4,2,18,122.7,2.4,OK,0,0.0
+Yogurt,266,99.7,2,36,235.4,2.7,OK,0,0.0
+Chips,320,101.7,2,37,240.4,3.1,OK,0,0.0
+Potatoes,193,61.8,2,24,147.7,3.1,OK,0,0.0
+Bottled Water,138,42.1,2,13,97.3,3.3,OK,0,0.0
+Soft Drinks,379,110.2,2,38,258.4,3.4,OK,0,0.0
+Toothpaste,203,57.2,3,26,197.6,3.5,OK,0,0.0
+Apples,281,76.9,2,30,183.8,3.7,OK,0,0.0
+Detergent,543,135.8,3,53,460.3,4.0,OK,0,0.0
+Bread,552,131.7,3,55,450.0,4.2,OK,0,0.0
+Cooking Oil,356,70.7,3,33,245.1,5.0,OK,0,0.0

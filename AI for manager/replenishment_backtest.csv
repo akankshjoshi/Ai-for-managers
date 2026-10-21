@@ -1,0 +1,4 @@
+Policy,Fill rate (%),Stock-out product-days,Lost revenue (₹),Average stock held (units/product)
+Current process (weekly order),93.69202226345084,67,323245.01,180.22042328042332
+Trigger + moving average,99.97688454495835,1,1563.3804761904723,109.2856878306878
+AI trigger (Random Forest),99.95497932316496,2,1100.6514285714284,109.62481481481478

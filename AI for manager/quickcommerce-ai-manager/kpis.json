@@ -1,0 +1,22 @@
+{
+  "sessions_analysed": 4975,
+  "abandonment_rate_pct": 33.4,
+  "abandonment_rate_no_oos_pct": 30.3,
+  "abandonment_rate_with_oos_pct": 50.7,
+  "revenue_lost_to_stockout_abandonment": 164541,
+  "selected_cart_model": "Logistic Regression (balanced)",
+  "cart_model_roc_auc": 0.741,
+  "cart_model_recall": 0.663,
+  "best_nudge_threshold": 0.6,
+  "nudge_net_profit_test": 3121,
+  "nudge_everyone_net_profit_test": -2201,
+  "forecast_mae_baseline": 8.9,
+  "forecast_mae_ai": 8.55,
+  "fill_rate_current_pct": 93.69,
+  "fill_rate_ai_pct": 99.95,
+  "lost_revenue_current_20d": 323245,
+  "lost_revenue_ai_20d": 1101,
+  "stockout_days_current": 67,
+  "stockout_days_ai": 2,
+  "products_reorder_now": 15
+}
